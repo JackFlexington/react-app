@@ -1,25 +1,5 @@
-import React, { useState } from 'react';
-import { View, Text, Image, ScrollView, TextInput, Button } from 'react-native';
-
-// Components
-const Cat = (props) => {
-  const [isHungry, setIsHungry] = useState(true);
-  
-  return (
-    <View>
-      <Text>
-        I am {props.name}, and I am {isHungry ? "hungry" : "full"}!
-      </Text>
-      <Button
-        onPress={() => {
-          setIsHungry(false);
-        }}
-        disabled={!isHungry}
-        title={isHungry ? "Pour me some milk, please!" : "Thank you!"}
-      />
-    </View>
-  );
-}
+import React from 'react';
+import { View, Text, Image, ScrollView, TextInput } from 'react-native';
 
 // Functions
 const getFullName = (firstName, secondName, thirdName) => {
@@ -53,5 +33,12 @@ const App = () => {
   );
 }
 
+// Components
+const Cat = (props) => {
+  return (
+    <Text>Hello, I am {props.name}!</Text>
+    // <Text> Hello, I am {getFullName("Rum", "Tum", "Tugger")}!</Text>
+  );
+}
 
 export default App;
