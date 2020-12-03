@@ -1,6 +1,6 @@
 # react-app
 
-## Installation instructs for MacOS
+## Installation instructions for MacOS
 1. [Install Yarn](https://classic.yarnpkg.com/en/docs/install/)
    * ```curl -o- -L https://yarnpkg.com/install.sh | bash```
 2. [Install NodeJS](https://nodejs.org/en/download/)
@@ -13,7 +13,8 @@
 3. [Xcode](https://developer.apple.com/xcode/)
    * Will need a developer accounts
 
-# Sources Cited
+# Links to document installations
 * [Yarn](https://classic.yarnpkg.com/en/docs/install/)
 * [NodeJS](https://nodejs.org/en/download/)
 * [Visual Studio Code](https://code.visualstudio.com/)
+* [Xcode](https://developer.apple.com/xcode/)
