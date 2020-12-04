@@ -36,3 +36,4 @@ Now the environment is ready for React-Native development.
 * [Brew](https://brew.sh/)
 * [Ruby Gems](https://rubygems.org/pages/download)
 * [cocoa pods](https://cocoapods.org)
+* [Config CLI Xcode](https://medium.com/codespace69/react-native-xcrun-error-unable-to-find-utility-simctl-not-a-developer-tool-or-in-path-bd908d3551be)
