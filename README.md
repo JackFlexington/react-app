@@ -28,6 +28,9 @@
    
 Now the environment is ready for React-Native development.
 
+# Examples on how to interact with React-Native projects
+1. ```cd /projectDir/ ; yarn install ; cd ios/ ; pod install ; cd ../ ; yarn react-native run-ios ;```
+
 # Links to document installations
 * [Yarn](https://classic.yarnpkg.com/en/docs/install/)
 * [NodeJS](https://nodejs.org/en/download/)
