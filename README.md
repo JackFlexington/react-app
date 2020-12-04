@@ -12,7 +12,8 @@
      * ```git config --global user.email "EMAIL@EMAIL.com"```
 3. [Install Xcode](https://developer.apple.com/xcode/)
    * Will need a developer accounts
-4. [Install cocoa pods](https://cocoapods.org)
+4. [Install Ruby Development](https://rubygems.org/pages/download)
+5. [Install cocoa pods](https://cocoapods.org)
    * sudo gem install cocoapods
 
 # Links to document installations
@@ -20,4 +21,5 @@
 * [NodeJS](https://nodejs.org/en/download/)
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Xcode](https://developer.apple.com/xcode/)
+
 * [cocoa pods](https://cocoapods.org)
