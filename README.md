@@ -31,6 +31,11 @@ Now the environment is ready for React-Native development.
 # Examples on how to interact with React-Native projects
 1. ```cd /projectDir/ ; yarn install ; cd ios/ ; pod install ; cd ../ ; yarn react-native run-ios ;```
 
+# Real-world expectations
+## Apple Development Environment, on a Macbook Air 2015
+1.) It took 1162-seconds for the first build cycle "yarn ios"
+2.) It still takes 240-seconds to launch the application on the Emulator
+
 # Links to document installations
 * [Yarn](https://classic.yarnpkg.com/en/docs/install/)
 * [NodeJS](https://nodejs.org/en/download/)
