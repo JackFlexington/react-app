@@ -22,6 +22,8 @@
 6. [Install cocoa pods](https://cocoapods.org)
    * ```sudo gem install cocoapods```
 
+Now the environment is ready for React-Native development.
+
 # Links to document installations
 * [Yarn](https://classic.yarnpkg.com/en/docs/install/)
 * [NodeJS](https://nodejs.org/en/download/)
