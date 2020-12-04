@@ -21,7 +21,11 @@
    * ```brew install ruby```
 6. [Install cocoa pods](https://cocoapods.org)
    * ```sudo gem install cocoapods```
-
+7. [Go into Xcode and select CLI tools](https://medium.com/codespace69/react-native-xcrun-error-unable-to-find-utility-simctl-not-a-developer-tool-or-in-path-bd908d3551be)
+   * Open Xcode
+   * ```Xcode > Preferences > Locations```
+   * "Command Line Tools Choose Xcode(Your Version Xcode at dropdown list) and leave it that way."
+   
 Now the environment is ready for React-Native development.
 
 # Links to document installations
